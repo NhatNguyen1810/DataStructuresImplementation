@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582091547 source:/Users/nguyennhat/Desktop/assignment3_test/StaticArray.TestDriver.cpp
+	<iostream>
+	<cassert>
+	"StaticArray.h"
+	"StaticArray.h"
+
+1582012811 /Users/nguyennhat/Desktop/assignment3_test/StaticArray.h
+
