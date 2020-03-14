@@ -1,0 +1,6 @@
+  1009 1 "Royal Queen"     2015 160
+ 1010   2  "Carnival"        2016  1600
+ 1019  1  "Ocean King"       2013  110
+ 1029 2 "Royal Prince"     2012 2000
+ 1039 2 "Royal Princess"  2010 2100
+ 1014 2 "Royal Caribbean" 2016 1600
