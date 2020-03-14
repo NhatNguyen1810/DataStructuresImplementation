@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574057386 source:/Users/nguyennhat/Desktop/hwhash/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
