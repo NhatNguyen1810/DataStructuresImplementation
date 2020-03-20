@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1584219348 source:/Users/nguyennhat/Desktop/assignment7_test/main.cpp
+	<iostream>
+	"Stack.h"
+	<cassert>
+
+1584513863 /Users/nguyennhat/Desktop/assignment7_test/Stack.h
+
+1584514314 source:/Users/nguyennhat/Desktop/assignment7_test/Stack.TestDriver.cpp
+	<iostream>
+	<cassert>
+	"Stack.h"
+	"Stack.h"
+

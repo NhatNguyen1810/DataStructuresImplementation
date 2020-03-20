@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1582143502 source:/Users/nguyennhat/Desktop/assignment4/main.cpp
+	<iostream>
+
+1582698496 source:/Users/nguyennhat/Desktop/assignment4/MyDynamicArray.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"DynamicArray.h"
+
+1582698567 /Users/nguyennhat/Desktop/assignment4/DynamicArray.h
+
