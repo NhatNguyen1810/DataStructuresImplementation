@@ -2,6 +2,10 @@
 #define STATICARRAY_H_INCLUDED
 
 
+//Student's Name: Nhat Nguyen
+//Student's ID: 1793410
+//Assignment 3: My Static Array
+
 template <typename T, int CAP>
 class StaticArray{
     T value[CAP];

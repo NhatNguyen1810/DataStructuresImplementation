@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1584426588 source:/Users/nguyennhat/Desktop/assignment7/main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<cstring>
+	"Stack.h"
+
+1584514253 /Users/nguyennhat/Desktop/assignment7/Stack.h
+
+1584509215 source:/Users/nguyennhat/Desktop/assignment7/MyRPNCalculator.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<cstring>
+	"Stack.h"
+
