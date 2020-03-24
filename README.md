@@ -10,6 +10,7 @@ git clone https://github.com/NhatNguyen1810/DataStructuresImplementation
 - Dynamic Array 
 - Linked List
 - Stack 
+  - Using Stack to implement an Reversed Polish Notation calculator
 - Queue
   - Using queue to implement a service queue simulation
   - There is an amount out available officers to serve customer. 
